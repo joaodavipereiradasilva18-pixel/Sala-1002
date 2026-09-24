@@ -1,1 +1,44 @@
+# FORMATO:
+# DATA=AAAA-MM-DD
+# AULAS=1 ou 1,2
+# MATERIA=Nome da matéria
+# 1=caminho-ou-link-da-imagem
+# 2=caminho-ou-link-da-imagem
+# Separe cada matéria com ---
 
+DATA=2026-09-24
+AULAS=1,2
+MATERIA=Matemática
+1=pagina.svg
+2=pagina.svg
+3=pagina.svg
+
+---
+
+DATA=2026-09-24
+AULAS=3
+MATERIA=História
+1=pagina.svg
+
+---
+
+DATA=2026-09-24
+AULAS=4,5
+MATERIA=Português
+1=pagina.svg
+2=pagina.svg
+
+---
+
+DATA=2026-09-23
+AULAS=1,2
+MATERIA=Biologia
+1=pagina.svg
+2=pagina.svg
+
+---
+
+DATA=2026-09-23
+AULAS=3
+MATERIA=Inglês
+1=pagina.svg
