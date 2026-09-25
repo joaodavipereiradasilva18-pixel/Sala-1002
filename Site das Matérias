@@ -7,16 +7,16 @@
 # Separe cada matéria com ---
 
 DATA=2026-09-16
-AULAS=3
+AULAS=1,4
 MATERIA=Matemática
 1=https://raw.githubusercontent.com/joaodavipereiradasilva18-pixel/Sala-1002/refs/heads/main/Mat%2016%2009.pngg
 
 ---
 
-DATA=2026-09-24
+DATA=2026-09-18
 AULAS=3
-MATERIA=História
-1=pagina.svg
+MATERIA=Matemática
+1=https://raw.githubusercontent.com/joaodavipereiradasilva18-pixel/Sala-1002/refs/heads/main/Mat%2018%2009.png
 
 ---
 
